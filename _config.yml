@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Adonis & M3NDY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "M3NDY"
+name                     : "M3NDY Choi"
 description              : "An amazing website."
 url                      : "https://M3NDY.github.io"
 baseurl                  : ""
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Multimedia Engineering In **Dongguk Univ.**"
   location         : "Somewhere"
   email            :
   links:
