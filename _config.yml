@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "M3NDY Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Multimedia Engineering In **Dongguk Univ.**"
-  location         : "Somewhere"
+  bio              : "Multimedia Engineering In Dongguk Univ."
+  location         : "Seoul In Republic of Korea"
   email            :
   links:
     - label: "Email"
